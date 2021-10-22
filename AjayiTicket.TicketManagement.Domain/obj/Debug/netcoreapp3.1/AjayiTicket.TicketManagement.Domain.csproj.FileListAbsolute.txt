@@ -1,0 +1,10 @@
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TicketManagement.Domain\bin\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Domain.deps.json
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TicketManagement.Domain\bin\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Domain.dll
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TicketManagement.Domain\bin\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Domain.pdb
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Domain.AssemblyInfo.cs
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Domain.dll
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Domain.pdb

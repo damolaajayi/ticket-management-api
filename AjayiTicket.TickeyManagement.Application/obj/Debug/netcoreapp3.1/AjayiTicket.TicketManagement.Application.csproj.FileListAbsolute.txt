@@ -1,0 +1,13 @@
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TickeyManagement.Application\bin\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Application.deps.json
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TickeyManagement.Application\bin\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Application.dll
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TickeyManagement.Application\bin\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Application.pdb
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TickeyManagement.Application\bin\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Domain.dll
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TickeyManagement.Application\bin\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Domain.pdb
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TickeyManagement.Application\obj\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Application.csproj.AssemblyReference.cache
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TickeyManagement.Application\obj\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TickeyManagement.Application\obj\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Application.AssemblyInfoInputs.cache
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TickeyManagement.Application\obj\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Application.AssemblyInfo.cs
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TickeyManagement.Application\obj\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TickeyManagement.Application\obj\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Application.csproj.CopyComplete
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TickeyManagement.Application\obj\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Application.dll
+C:\Users\adedamola.ajayi\source\repos\AjayiTicket.TicketManagement\AjayiTicket.TickeyManagement.Application\obj\Debug\netcoreapp3.1\AjayiTicket.TicketManagement.Application.pdb
